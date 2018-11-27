@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	font-family: arial;
+}
+
+button {
+	padding: 8px;
+	border: grey solid 1px;
+	border-radius: 5px;
+}
+
+button:hover {
+	cursor: pointer;
+	background: rgb(211,211,211);
+}
