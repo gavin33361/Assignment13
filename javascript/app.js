@@ -29,7 +29,6 @@ $(document).ready(function(){
 				$('p').append("It is daylight savings time.");
 			}
 			$('body').append('</p>');
-			//give me an array of last 10 or less articles with my search
 		},
 		error: function(data, textStatus, errorThrown){
 			//call this function if request throws an error
